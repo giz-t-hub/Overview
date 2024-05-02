@@ -15,3 +15,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - https://github.com/giz-t-hub/Rwanda
 - https://github.com/giz-t-hub/Ukraine
 
+For more information about our work, please refer to: Changing Transport, TUMI and MobiliseYourCity:
+•	Changing Transport with focus on climate change, MRV, freight and vehicles, etc: https://changing-transport.org/
+•	Transformative Urban Mobility Initiative (TUMI) with focus on urban mobility: https://transformative-mobility.org/
+•	MobiliseYourCity with focus on SUMPs and NUMPs: https://www.mobiliseyourcity.net/
