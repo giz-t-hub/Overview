@@ -13,7 +13,13 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - https://github.com/giz-t-hub/Azerbaijan
 - https://github.com/giz-t-hub/BosniaandHerzegovina/
 - https://github.com/giz-t-hub/Georgia
+- https://github.com/giz-t-hub/Kenya
+- https://github.com/giz-t-hub/Kosovo/
 - https://github.com/giz-t-hub/Moldova
+- https://github.com/giz-t-hub/Montenegro/
+- https://github.com/giz-t-hub/NorthMacedonia/
+- https://github.com/giz-t-hub/Rwanda
+- https://github.com/giz-t-hub/Serbia
 - https://github.com/giz-t-hub/Ukraine
 
 For more information about our work, please refer to: 
