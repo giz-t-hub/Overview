@@ -24,6 +24,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - https://github.com/giz-t-hub/Rwanda
 - https://github.com/giz-t-hub/Serbia
 - https://github.com/giz-t-hub/Ukraine
+- New publications: https://github.com/giz-t-hub/2024
 
 For more information about our work, please refer to: 
 - Changing Transport: https://changing-transport.org/
