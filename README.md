@@ -12,6 +12,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - https://github.com/giz-t-hub/Armenia
 - https://github.com/giz-t-hub/Azerbaijan
 - https://github.com/giz-t-hub/BosniaandHerzegovina/
+- https://github.com/giz-t-hub/Croatia
 - https://github.com/giz-t-hub/Georgia
 - https://github.com/giz-t-hub/Germany
 - https://github.com/giz-t-hub/India/
