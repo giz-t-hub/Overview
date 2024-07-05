@@ -26,7 +26,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - https://github.com/giz-t-hub/Serbia
 - https://github.com/giz-t-hub/Ukraine
   
-  Latin America
+  <b>Latin America:</b>
 
 - https://github.com/giz-t-hub/Argentina
 - https://github.com/giz-t-hub/Ecuador
