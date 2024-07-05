@@ -29,7 +29,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
   <b>Latin America:</b>
 
 - https://github.com/giz-t-hub/Argentina
-- https://github.com/giz-t-hub/Ecuador
+- https://github.com/giz-t-hub/Brazil
+- https://github.com/giz-t-hub/Chile
+- https://github.com/giz-t-hub/Colombia
 - https://github.com/giz-t-hub/Costa-Rica
 - https://github.com/giz-t-hub/Ecuador
 - https://github.com/giz-t-hub/Mexico
