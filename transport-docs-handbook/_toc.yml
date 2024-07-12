@@ -1,0 +1,92 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: How to
+    chapters:
+    - title: Add country (open issue)
+      url: https://github.com/giz-t-hub/Overview/issues
+  - caption: Countries in
+    chapters:
+    - title: Africa
+      file: documents/Africa/README.md
+      sections:
+      - title: Kenya
+        file: documents/Africa/Kenya_README.md
+      - title: Rwanda
+        file: documents/Africa/Rwanda_README.md
+    - title: Asia
+      file: documents/Asia/README.md
+      sections:
+      - title: India
+        file: documents/Asia/India_README.md
+    - title: Europe
+      file: documents/Europe/README.md
+      sections:
+      - title: Albania
+        file: documents/Europe/Albania_README.md
+      - title: Armenia
+        file: documents/Europe/Armenia_README.md
+      - title: Azerbaijan
+        file: documents/Europe/Azerbaijan_README.md
+      - title: Bosnia and Herzegovina
+        file: documents/Europe/BosniaandHerzegovina_README.md
+      - title: Croatia
+        file: documents/Europe/Croatia_README.md
+      - title: Georgia
+        file: documents/Europe/Georgia_README.md
+      - title: Germany
+        file: documents/Europe/Germany_README.md
+      - title: Kosovo
+        file: documents/Europe/Kosovo_README.md
+      - title: Moldova
+        file: documents/Europe/Moldova_README.md
+      - title: Montenegro
+        file: documents/Europe/Montenegro_README.md
+      - title: North Macedonia
+        file: documents/Europe/NorthMacedonia_README.md
+      - title: Poland
+        file: documents/Europe/Poland_README.md
+      - title: Serbia
+        file: documents/Europe/Serbia_README.md
+      - title: Ukraine
+        file: documents/Europe/Ukraine_README.md
+    - title: LatinAmerica
+      file: documents/LatinAmerica/README.md
+      sections:
+      - title: Argentina
+        file: documents/LatinAmerica/Argentina_README.md
+      - title: Brazil
+        file: documents/LatinAmerica/Brazil_README.md
+      - title: Chile
+        file: documents/LatinAmerica/Chile_README.md
+      - title: Colombia
+        file: documents/LatinAmerica/Colombia_README.md
+      - title: Costa Rica
+        file: documents/LatinAmerica/Costa-Rica_README.md
+      - title: Ecuador
+        file: documents/LatinAmerica/Ecuador_README.md
+      - title: Mexico
+        file: documents/LatinAmerica/Mexico_README.md
+      - title: Peru
+        file: documents/LatinAmerica/Peru_README.md
+  - caption: Advanced
+    chapters:
+    - title: AI and Sustainable Mobility
+      url: https://github.com/arwagiz/AI-Sustainable-Mobility
+    - title: Open-Source tools
+      url: https://github.com/pomodoren/awesome-open-transport
+    - title: New publications (2024)
+      url: https://github.com/giz-t-hub/2024
+  - caption: About
+    chapters:
+    - title: GIZ
+      url: https://giz.de
+    - title: Changing Transport
+      url: https://changing-transport.org/
+    - title: TUMI
+      url: https://transformative-mobility.org/
+    - title: MobiliseYourCity
+      url:  https://www.mobiliseyourcity.net/
