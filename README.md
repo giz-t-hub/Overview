@@ -15,7 +15,6 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - https://github.com/giz-t-hub/Croatia
 - https://github.com/giz-t-hub/Georgia
 - https://github.com/giz-t-hub/Germany
-- https://github.com/giz-t-hub/India/
 - https://github.com/giz-t-hub/Kenya
 - https://github.com/giz-t-hub/Kosovo/
 - https://github.com/giz-t-hub/Moldova
@@ -36,6 +35,11 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - https://github.com/giz-t-hub/Ecuador
 - https://github.com/giz-t-hub/Mexico
 - https://github.com/giz-t-hub/Peru
+
+  <b>Asia</b>
+  
+- https://github.com/giz-t-hub/Bangladesh
+- - https://github.com/giz-t-hub/India/
   
 - New publications: https://github.com/giz-t-hub/2024
 
