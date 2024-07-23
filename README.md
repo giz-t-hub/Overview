@@ -39,7 +39,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
   <b>Asia</b>
   
 - https://github.com/giz-t-hub/Bangladesh
-- - https://github.com/giz-t-hub/India/
+- https://github.com/giz-t-hub/India/
   
 - New publications: https://github.com/giz-t-hub/2024
 
