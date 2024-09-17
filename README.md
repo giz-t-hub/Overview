@@ -8,6 +8,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 <b> Available repositories: </b>
 
+  <b>Europe:</b>
+  
 - https://github.com/giz-t-hub/Albania
 - https://github.com/giz-t-hub/Armenia
 - https://github.com/giz-t-hub/Azerbaijan
@@ -15,15 +17,18 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - https://github.com/giz-t-hub/Croatia
 - https://github.com/giz-t-hub/Georgia
 - https://github.com/giz-t-hub/Germany
-- https://github.com/giz-t-hub/Kenya
 - https://github.com/giz-t-hub/Kosovo/
 - https://github.com/giz-t-hub/Moldova
 - https://github.com/giz-t-hub/Montenegro/
 - https://github.com/giz-t-hub/NorthMacedonia/
 - https://github.com/giz-t-hub/Poland
-- https://github.com/giz-t-hub/Rwanda
 - https://github.com/giz-t-hub/Serbia
 - https://github.com/giz-t-hub/Ukraine
+  
+  <b>Africa:</b>
+  
+- https://github.com/giz-t-hub/Kenya
+- https://github.com/giz-t-hub/Rwanda
   
   <b>Latin America:</b>
 
