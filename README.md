@@ -23,6 +23,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - https://github.com/giz-t-hub/NorthMacedonia/
 - https://github.com/giz-t-hub/Poland
 - https://github.com/giz-t-hub/Serbia
+- https://github.com/giz-t-hub/Slovenia
 - https://github.com/giz-t-hub/Ukraine
   
   <b>Africa:</b>
