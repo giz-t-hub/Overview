@@ -47,6 +47,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - https://github.com/giz-t-hub/Bangladesh
 - https://github.com/giz-t-hub/India/
 - https://github.com/giz-t-hub/Vietnam
+- https://github.com/giz-t-hub/Indonesia
 
   
 - New publications: https://github.com/giz-t-hub/2024
