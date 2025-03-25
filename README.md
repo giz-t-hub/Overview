@@ -9,8 +9,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 <b> Available repositories: </b>
 
   <b>Europe:</b>
-  
-- https://github.com/giz-t-hub/Albania
+
+  - https://github.com/giz-t-hub/Albania
 - https://github.com/giz-t-hub/Armenia
 - https://github.com/giz-t-hub/Azerbaijan
 - https://github.com/giz-t-hub/BosniaandHerzegovina/
