@@ -7,6 +7,7 @@ Community list of publications, data and other useful information on transport  
 Have something to add or change? Contact: Armin.Wagner@giz.de
 
 <b> Mobility Reading List </b> 
+
 A curated public reading list of new transport and mobility publications released in 2026. Updated regularly to highlight research, policy, data, and practical guidance worth your time.
 
 Who this is for: Policymakers, practitioners, researchers, and students working on transport, urban mobility, climate, equity, and infrastructure. Updated monthly (with occasional mid-month additions when notable publications are released).
